@@ -1,0 +1,15 @@
+{
+    "userName": "Engin",
+    "password": 1234,
+    "job": "Front-end developer",
+    "phone": "+905551112222",
+    "city": "Ankara",
+    "isAuth": true,
+    "IDs": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ]
+}
